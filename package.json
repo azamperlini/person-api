@@ -1,0 +1,27 @@
+{
+  "name": "personapi",
+  "version": "1.0.0",
+  "description": "Essa é minha app CRUD person json-server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/azamperlini/personAPP.git"
+  },
+  "keywords": [
+    "crud",
+    "person",
+    "json-server"
+  ],
+  "author": "alexandrezamperlini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azamperlini/personAPP/issues"
+  },
+  "homepage": "https://github.com/azamperlini/personAPP#readme",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}

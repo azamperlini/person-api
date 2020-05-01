@@ -1,0 +1,17 @@
+{
+    "users": [{
+    "id": 1,
+    "name": "Cintia Santos",
+    "email": "cintia.santos@ielusc.br"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Santos",
+      "email": "carlos.santos@ielusc.br"
+    },
+    {
+      "id": 3,
+      "name": "Alexandre Zamperlini",
+      "email": "alexandre.zamperlini@ielusc.br"
+    }]
+  }
